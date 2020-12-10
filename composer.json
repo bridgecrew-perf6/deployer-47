@@ -1,0 +1,22 @@
+{
+  "name": "spirling/deployer",
+  "description": "Deployment tool for PHP projects",
+  "type": "library",
+  "version": "0.0.1-dev",
+  "minimum-stability": "stable",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Johnie Spirling",
+      "email": "johnie.spirling@gmail.com",
+      "role": "author"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Spirling\\Deployer\\": "src"
+    }
+  }
+}
